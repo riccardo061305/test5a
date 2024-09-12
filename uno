@@ -1,0 +1,4 @@
+rosso
+verde
+indaco
+violetto
